@@ -28,11 +28,16 @@ Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Li
 8.	Save the file. 
 9.	Analyze and record your inference.
 
+<img width="1536" height="912" alt="image" src="https://github.com/user-attachments/assets/11f84530-5965-4da3-b4f8-223cbbe71fba" />
+
 
 ## Simulated Output waveform
 
+<img width="1808" height="825" alt="image" src="https://github.com/user-attachments/assets/a03390ff-fb97-4df5-a6a4-ef622a52b53a" />
+<img width="1536" height="912" alt="image" src="https://github.com/user-attachments/assets/dbc8e8a5-9847-42e8-8db7-c5960eef60cd" />
 
 ## RESULT.
+The torque-speed characteristics of a three-phase induction motor were successfully simulated and analyzed using MATLAB/Simulink.
 
 
 
